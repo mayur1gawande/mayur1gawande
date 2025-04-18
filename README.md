@@ -1,8 +1,8 @@
-<h2 align="left">Hi 👋! My name is Mayur Suresh Gawande and I'm a student from India.</h2>
+<h2 align="left">Hi 👋! My name is Mayur Suresh Gawande and I'm a AI & Data Science student from India.</h2>
 
 ###
 
-<h2 align="left">Tech Stack</h2>
+<h2 align="left">🛠️ Tech Stack</h2>
 
 ###
 
@@ -48,11 +48,24 @@
 
 ###
 
+<h2 align = "Left" >💻 What I Do</h2>
+<ul>
+  <li>🐍 I write clean and efficient code in <strong>Python</strong>, focusing on <strong>Machine Learning</strong> and <strong>Deep Learning</strong>
+  <li>📊 I explore <strong>Data Science</strong> and <strong>Analytics</strong>, including data visualization and basic SQL for database interaction</li>
+  <li>🎨 I use <strong>Canva</strong> for designing logos, figures, and short videos — still exploring the creative side</li>
+  <li>🌐 I’ve learned the basics of <strong>HTML</strong>, <strong>CSS</strong>, and <strong>JavaScript</strong> for web development</li>
+  <li>☕ Currently learning <strong>Javascript</strong> to expand my programming toolkit</li>
+  <li>🐧 I work comfortably with the <strong>Linux</strong> environment for development tasks</li>
+</ul>
+
+
+###
+
 <h2 align="left">Connect with me!</h2>
 
 ###
 
-<img align="right" height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGM4YXE5eG12OW12ZnNxdzlxN256ZWRjYW9sYWd0aWNmYm40aXFndCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bJ4TVNYNUympPgcpem/giphy.gif"  />
+<img align="right" height="300" src="profile-image.gif"  />
 
 ###
 
@@ -63,6 +76,8 @@
   <a href="gawandemayur336@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
   </a>
+</div>
+<div align ="left>
   <a href="https://www.linkedin.com/in/mayurgawande" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
@@ -75,7 +90,9 @@
 
 <br clear="both">
 
-<img src="https://github.com/mayur1gawande/mayur1gawande/blob/output/github-snake.svg" alt="Snake animation" />
+<div align = "center">
+  <img src="https://github.com/mayur1gawande/mayur1gawande/blob/output/github-snake.svg" alt="Snake animation" />
+</div>
 
 ###
 
