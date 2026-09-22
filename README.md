@@ -95,9 +95,3 @@
 </div>
 
 ###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/mayur1gawande/count.svg?"  />
-</div>
-
-###
